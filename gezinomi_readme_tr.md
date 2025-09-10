@@ -1,11 +1,6 @@
 # 🏨 Gezinomi Müşteri Segmentasyon Analizi
 ## Tatilci Rezervasyon Davranışlarının İstatistiksel Analizi
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)](https://pandas.pydata.org/)
-[![İstatistiksel Analiz](https://img.shields.io/badge/İstatistiksel%20Analiz-İleri%20Düzey-orange.svg)]()
-[![Scipy](https://img.shields.io/badge/Scipy-Stats-red.svg)]()
-
 > **"Veri sadece sayı değildir. Doğru analizle, stratejiye dönüşen bir sezgidir."**
 
 ---
